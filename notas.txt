@@ -1,0 +1,8 @@
+-hablar en publico;
+-depurar bien, unit testin (jet - javascript);
+-probabilidad y estadistica;
+-concurrencia y real time (socket node js);
+-machine learning (keras, scikit-learn, tensorflow);
+lenguajes nuevos (go, elixir, scala, kotling, flutter);
+aprender kubernetes - dokker(devops);
+electronica basica moderna ()
